@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm Seowon Choi
+***
+## ABOUT ME :woman:
 
 <!--
 **seowonme/seowonme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
